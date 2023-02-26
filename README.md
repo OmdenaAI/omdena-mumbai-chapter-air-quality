@@ -2,7 +2,7 @@
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
+# Monitoring and Predicting Air Quality using Machine Learning
 
 
 ## Contribution Guidelines
