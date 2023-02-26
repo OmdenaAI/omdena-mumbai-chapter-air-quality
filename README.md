@@ -1,5 +1,4 @@
 # Omdena Mumbai Chapter
-Use this Repository as a template for creating Local Chapter Repositories
 
 
 # Monitoring and Predicting Air Quality using Machine Learning
