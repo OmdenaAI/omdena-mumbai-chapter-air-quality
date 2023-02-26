@@ -1,4 +1,4 @@
-# chapter-project-repository-template
+# Omdena Mumbai Chapter
 Use this Repository as a template for creating Local Chapter Repositories
 
 
