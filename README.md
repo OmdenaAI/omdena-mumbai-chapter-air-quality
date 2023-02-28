@@ -2,6 +2,10 @@
 
 
 # Monitoring and Predicting Air Quality using Machine Learning
+- Air is what keeps humans alive. Since industrialization, there has been an increasing concern about environmental pollution. 
+- As mentioned in the WHO report 7 million premature deaths annually are linked to air pollution, air pollution is the world’s largest single environmental risk.
+- Moreover, as reported in the NY Times article, India’s Air Pollution Rivals China’s as World’s Deadliest, it has been found that India’s air pollution is deadlier than even China’s.
+- Monitoring it and understanding its quality is of immense importance to our well-being. Using this dataset one can explore India’s air pollution levels at a more granular scale.
 
 
 ## Contribution Guidelines
