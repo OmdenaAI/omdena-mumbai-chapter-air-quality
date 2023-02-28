@@ -1,4 +1,4 @@
-# Omdena Mumbai Chapter
+# Omdena Mumbai Chapter - Predicting Air Quality
 
 
 # Monitoring and Predicting Air Quality using Machine Learning
