@@ -1,6 +1,6 @@
 # Omdena Mumbai Chapter
 
-### **This is an experimental file**
+### **This is an experimental file for collaborators, feel free to edit**
 
 ## Chapter Leads
 
