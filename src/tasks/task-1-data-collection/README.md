@@ -21,4 +21,4 @@ The Air Quality Index (AQI) is a scale used to measure and report air quality in
 | Poor | 4 | 
 | Very Poor | 5 | 
 
-Note: The dataset has been updated to include data up to March 4, 2023.
+### Note: The dataset has been updated to include data up to March 4, 2023 and AQI column added.
