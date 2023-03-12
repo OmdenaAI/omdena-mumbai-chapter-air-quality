@@ -6,6 +6,7 @@
 
 1. Manpreet Singh
 2. Avi
+3. Aishwarya Nevrekar 
 
 ## Collaborators
 1. Ifeoluwa
