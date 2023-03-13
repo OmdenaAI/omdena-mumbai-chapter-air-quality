@@ -14,5 +14,5 @@ Note : Please Follow the below guidelines to create task folders
 |1|         |         |
 |2|         |         |
 |3|         |         |
-|4|         |         |
-|5|Political Rationale| The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|
+|4|Deployment         |The process of taking a trained machine learning model and making it available for use in real-world applications         |
+|5|Documentation| The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|
