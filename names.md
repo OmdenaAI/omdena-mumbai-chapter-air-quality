@@ -10,4 +10,5 @@
 
 ## Collaborators
 1. Ifeoluwa
-2. Yaswanth
+2. Mubarak Mayyeri
+3. Yaswanth
