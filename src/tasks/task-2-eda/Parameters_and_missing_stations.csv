@@ -1,0 +1,27 @@
+Abbrevations,Parametres,How many stations,Missing stations
+From Date,Start Date,21,[]
+To Date,End Date,21,[]
+PM2.5,Particulate Matter less than 2.5 micron size,21,[]
+PM10,Particulate Matter less than 10 Micron size,21,[]
+NO,Nitric Oxide,21,[]
+NO2,Nitrogen dioxied,21,[]
+NOx,Oxides of Nitrogen,21,[]
+NH3,Ammonia,20,['BandraMumbaiMPCB']
+SO2,Sulphur Dioxide,19,"['BorivaliEastMumbaiIITM', 'SiddharthNagarWorliMumbaiIITM']"
+CO,Carbon Monoxide,21,[]
+Ozone,Ozone,21,[]
+Benzene,Benzen,19,"['BorivaliEastMumbaiIITM', 'SiddharthNagarWorliMumbaiIITM']"
+Toluene,Toluene,19,"['BorivaliEastMumbaiIITM', 'SiddharthNagarWorliMumbaiIITM']"
+Eth-Benzene,Ethyl Benzene,18,"['BandraMumbaiMPCB', 'BorivaliEastMumbaiIITM', 'SiddharthNagarWorliMumbaiIITM']"
+MP-Xylene,M+P Xylene,18,"['BandraMumbaiMPCB', 'BorivaliEastMumbaiIITM', 'SiddharthNagarWorliMumbaiIITM']"
+RH,Relative Humidity,21,[]
+WS,Wind Speed,21,[]
+WD,Wind Direcction,21,[]
+SR,Solar Radiation,7,"['BorivaliEastMumbaiIITM', 'ChakalaAndheriEastMumbaiIITM', 'DeonarMumbaiIITM', 'KhindipadaBhandupWestMumbaiIITM', 'MaladWestMumbaiIITM', 'MazgaonMumbaiIITM', 'MulundWestMumbaiMPCB', 'NavyNagarColabaMumbaiIITM', 'PowaiMumbaiMPCB', 'SiddharthNagarWorliMumbaiIITM', 'SionMumbaiMPCB', 'VasaiWestMumbaiMPCB', 'VileParleWestMumbaiMPCB', 'WorliMumbaiMPCB']"
+BP,Barometric Pressure,20,['MazgaonMumbaiIITM']
+Xylene,Xylene,6,"['BandraMumbaiMPCB', 'BorivaliEastMumbaiIITM', 'BorivaliEastMumbaiMPCB', 'ChhatrapatiShivajiIntlAirportT2MumbaiMPCB', 'ColabaMumbaiMPCB', 'KandivaliEastMumbaiMPCB', 'KurlaMumbaiMPCB', 'MaladWestMumbaiIITM', 'MulundWestMumbaiMPCB', 'PowaiMumbaiMPCB', 'SiddharthNagarWorliMumbaiIITM', 'SionMumbaiMPCB', 'VasaiWestMumbaiMPCB', 'VileParleWestMumbaiMPCB', 'WorliMumbaiMPCB']"
+AT,Ambient Temperature,19,"['BandraMumbaiMPCB', 'MazgaonMumbaiIITM']"
+RF,Rain Fall,11,"['BorivaliEastMumbaiMPCB', 'ChhatrapatiShivajiIntlAirportT2MumbaiMPCB', 'ColabaMumbaiMPCB', 'KurlaMumbaiMPCB', 'MazgaonMumbaiIITM', 'PowaiMumbaiMPCB', 'SionMumbaiMPCB', 'VasaiWestMumbaiMPCB', 'VileParleWestMumbaiMPCB', 'WorliMumbaiMPCB']"
+TOT-RF,TOT-RF,19,"['BorivaliEastMumbaiIITM', 'SiddharthNagarWorliMumbaiIITM']"
+Temp,Rack Temperature,2,"['BandraKurlaComplexMumbaiIITM', 'BorivaliEastMumbaiIITM', 'BorivaliEastMumbaiMPCB', 'ChhatrapatiShivajiIntlAirportT2MumbaiMPCB', 'ColabaMumbaiMPCB', 'DeonarMumbaiIITM', 'KandivaliEastMumbaiMPCB', 'KhindipadaBhandupWestMumbaiIITM', 'KurlaMumbaiMPCB', 'MaladWestMumbaiIITM', 'MazgaonMumbaiIITM', 'MulundWestMumbaiMPCB', 'NavyNagarColabaMumbaiIITM', 'PowaiMumbaiMPCB', 'SiddharthNagarWorliMumbaiIITM', 'SionMumbaiMPCB', 'VasaiWestMumbaiMPCB', 'VileParleWestMumbaiMPCB', 'WorliMumbaiMPCB']"
+VWS,Vertical Wind Speed,1,"['BandraKurlaComplexMumbaiIITM', 'BorivaliEastMumbaiIITM', 'BorivaliEastMumbaiMPCB', 'ChakalaAndheriEastMumbaiIITM', 'ChhatrapatiShivajiIntlAirportT2MumbaiMPCB', 'ColabaMumbaiMPCB', 'DeonarMumbaiIITM', 'KandivaliEastMumbaiMPCB', 'KhindipadaBhandupWestMumbaiIITM', 'KurlaMumbaiMPCB', 'MaladWestMumbaiIITM', 'MazgaonMumbaiIITM', 'MulundWestMumbaiMPCB', 'NavyNagarColabaMumbaiIITM', 'PowaiMumbaiMPCB', 'SiddharthNagarWorliMumbaiIITM', 'SionMumbaiMPCB', 'VasaiWestMumbaiMPCB', 'VileParleWestMumbaiMPCB', 'WorliMumbaiMPCB']"

@@ -1,0 +1,27 @@
+Abbrevations,Parametres,How many stations
+From Date,Start Date,21
+To Date,End Date,21
+PM2.5,Particulate Matter less than 2.5 micron size,21
+PM10,Particulate Matter less than 10 Micron size,21
+NO,Nitric Oxide,21
+NO2,Nitrogen dioxied,21
+NOx,Oxides of Nitrogen,21
+NH3,Ammonia,20
+SO2,Sulphur Dioxide,19
+CO,Carbon Monoxide,21
+Ozone,Ozone,21
+Benzene,Benzen,19
+Toluene,Toluene,19
+Eth-Benzene,Ethyl Benzene,18
+MP-Xylene,M+P Xylene,18
+RH,Relative Humidity,21
+WS,Wind Speed,21
+WD,Wind Direcction,21
+SR,Solar Radiation,7
+BP,Barometric Pressure,20
+Xylene,Xylene,6
+AT,Ambient Temperature,19
+RF,Rain Fall,11
+TOT-RF,TOT-RF,19
+Temp,Rack Temperature,2
+VWS,Vertical Wind Speed,1
