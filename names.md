@@ -5,7 +5,7 @@
 ## Chapter Leads
 
 1. Manpreet Singh
-2. Avi
+2. Avi Talaviya
 3. Aishwarya Nevrekar 
 
 ## Collaborators
