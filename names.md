@@ -9,6 +9,8 @@
 3. Aishwarya Nevrekar
 
 ## Task-0:Knowledge-Task Co-leads
+1. Shreetama Karmakar
+2. Anjana Sengupta
 
 ## Task-1:Data Collection-Task Co-leads
 
@@ -28,5 +30,4 @@
 1. Ifeoluwa
 2. Mubarak Mayyeri
 3. Yaswanth
-4. Shreetama 
 
