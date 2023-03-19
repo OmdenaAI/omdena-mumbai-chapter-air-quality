@@ -13,6 +13,9 @@
 2. Anjana Sengupta
 
 ## Task-1:Data Collection-Task Co-leads
+1. Eyal Hurvitz 
+2. Elias Dzobo 
+3. Alamin Musa Magaga
 
 ## Task-2:EDA-Task Co-leads
 1. Benedict Debrah
