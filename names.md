@@ -28,7 +28,6 @@
 
 ## Collaborators
 1. Ifeoluwa
-2. Mubarak Mayyeri
-3. Yaswanth
-4. Biswajit Mondal
+2. Yaswanth
+3. Biswajit Mondal
 
