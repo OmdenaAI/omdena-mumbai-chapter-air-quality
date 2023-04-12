@@ -36,7 +36,7 @@ def home():
 	st.write(" ")
 	st.markdown("<p style='color:#333333; font-size:18px;'>At AeroHue, we're committed to helping you breathe easier by providing you with the information you need to ensure that the air you're breathing is clean and healthy. Our easy-to-use web application allows you to monitor air quality in real-time and take steps to improve it if necessary.</p>", unsafe_allow_html=True)
 	st.write(" ")
-	st.write(" ")
+	st.write("Hunter ")
 
 	# Add section for real-time air quality monitoring
 	st.markdown("<h3 style='color:#4CAF50;'>Real-Time Air Quality Monitoring</h3>", unsafe_allow_html=True)
