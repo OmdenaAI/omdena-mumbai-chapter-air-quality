@@ -1,8 +1,18 @@
 import streamlit as st
 import base64
 from styles import streamlit_style
+import s3fs
 
 streamlit_style()
+
+# reading s3 files
+fs = s3fs.S3FileSystem(anon=False)
+
+def read_file(filename):
+    with fs.open(filename) as f:
+        return f.read().decode("utf-8")
+    
+data = read_file("bucket/filename")
 
 def add_bg_from_local(image_file):
     with open(image_file, "rb") as image_file:
