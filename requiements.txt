@@ -1,3 +1,0 @@
-pandas
-s3fs
-streamlit
