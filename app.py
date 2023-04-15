@@ -148,13 +148,13 @@ def air_quality_prediction():
     ## Figure-3
 
     st.components.v1.html(open("./visualizations/pie_chart1.html",
-                            encoding='utf-8').read(), height=800)
+                            encoding='utf-8').read(), height=500)
     st.components.v1.html(open("./visualizations/pie_chart2.html",
-                            encoding='utf-8').read(),height=800)
+                            encoding='utf-8').read(),height=500)
     st.components.v1.html(open("./visualizations/pie_chart3.html",
-                            encoding='utf-8').read(),height=800)
+                            encoding='utf-8').read(),height=500)
     st.components.v1.html(open("./visualizations/pie_chart4.html",
-                            encoding='utf-8').read(),height=800)
+                            encoding='utf-8').read(),height=500)
 
 
 
