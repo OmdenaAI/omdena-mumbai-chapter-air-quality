@@ -107,7 +107,7 @@ def air_quality_prediction():
     # Create an expander
     with st.expander("Correlation Heatmap"):
     # Display the HTML file visualization
-        st.components.v1.html(open("/content/corr_heatmap.html",
+        st.components.v1.html(open("./visualizations/corr_heatmap.html",
                             encoding='utf-8').read(), width=1600, height=1600)
     st.write(
             f'<div style="padding: 10px"><h1 style="font-size: 36px;">'
