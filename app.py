@@ -119,7 +119,7 @@ def air_quality_prediction():
     st.markdown("<hr>", unsafe_allow_html=True)  
 
 
-   ## Figure-2
+    ## Figure-2
 
     # st.title("Displaying Bar Plots in Streamlit")
 
