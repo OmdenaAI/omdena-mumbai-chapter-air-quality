@@ -4,7 +4,6 @@ from styles import streamlit_style
 # import s3fs
 import pandas as pd
 import numpy as np
-import plotly.express as px
 
 
 streamlit_style()
