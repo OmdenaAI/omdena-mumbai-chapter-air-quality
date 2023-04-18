@@ -173,7 +173,7 @@ def air_quality_prediction():
 def real_time_aqi_monitoring():
     st.header("Real-time AQI Monitoring")
     st.write("This page will show you the current air quality index (AQI) for your location in real-time, based on data from sensors and other sources.")
-    model = pickle.load('model/tft_model_khindipada/tft_model')
+    model = pickle.load('./model/tft_model_khindipada/tft_model')
     prediction = model.predict(n=1, num_samples=10)
     st.write(" ")
     st.write(" ")
