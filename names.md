@@ -38,3 +38,5 @@
 6. Ghulam M Ali (GM Ali)
 7. Yasir ECH-CHAMMAKHY
 8. Gerardo Angulo
+9. Jay Oza
+10. Chirag Maniyath
