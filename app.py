@@ -156,8 +156,22 @@ def air_quality_prediction():
                             encoding='utf-8').read(),height=500)
     st.components.v1.html(open("./visualizations/pie_chart4.html",
                             encoding='utf-8').read(),height=500)
+    
 
-
+    
+    st.markdown('### Summary of Data Exploration and Visualization:')
+    st.write('- 8 Stations are included (based on different articles stating pollution levels in Mumbai) in AQI study for Mumbai (Bandra_kurla, Mazagaon, Bandra_mumbai, Airport, Deonar, Kurla, Malad, Worli)')
+    st.write('- 25-40% of data were missing in the columns which is imputed using KNN Imputer and other columns were dropped (if the columns have more than 50% NULL)')
+    st.write('- AQI is calculated using independent variables.')
+    st.write("- 'PM2.5_μg','PM10_μg' and 'NOx_μg' is showing strong positive correlation with AQI.")
+    st.write('- Deonar and Mazagaon are highest polluted stations, while Airport, Bandra_kurla, Kurla and Worli are emerging as polluted stations.')
+    st.write('- Concentration of PM2.5 and PM10 is increased 66% and 100% 2022 to 2023 while during lockdown (2021) there was approx 50% increase')
+    st.write('- Ozone concentration increased 75% from 2022 to 2023 while we did not observe any change in NH3 concentration.')
+    st.write('- From Jan to June conc of pollutants is decreasing hence we can observe AQI is also decresing.')
+    st.write('- While from July to Dec conc of pollutants is in increasing trend.')
+    st.write('- PM2.5 is majorly impacting Deonar, Mazagaon stations.')
+    st.write('- PM10 is impacting Airport, Deonar and Kurla stations')
+    st.write("- While NOx is majorly impacting the air pollution in Airport, Kurla and Bandra_Mumbai stations")
 
 
 
